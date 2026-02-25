@@ -135,3 +135,15 @@ Y
 Яя Юю Ээ Ьь Ыы Ъъ Щщ Шш Чч Цц Хх Фф Уу Тт Сс Рр Пп Оо Нн Мм Лл Кк Йй Ии Зз Жж Ёё Ее Дд Гг Вв Бб Аа 
 Яя, Юю, Ээ, Ьь, Ыы, Ъъ, Щщ, Шш, Чч, Цц, Хх, Фф, Уу, Тт, Сс, Рр, Пп, Оо, Нн, Мм, Лл, Кк, Йй, Ии, Зз, Жж, Ёё, Ее, Дд, Гг, Вв, Бб, Аа, 
 ```
+#### English
+```
+AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz
+Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz 
+Aa, Bb, Cc, Dd, Ee, Ff, Gg, Hh, Ii, Jj, Kk, Ll, Mm, Nn, Oo, Pp, Qq, Rr, Ss, Tt, Uu, Vv, Ww, Xx, Yy, Zz, 
+
+- fliped -
+
+ZzYyXxWwVvUuTtSsRrQqPpOoNnMmLlKkJjIiHhGgFfEeDdCcBbAa
+Zz Yy Xx Ww Vv Uu Tt Ss Rr Qq Pp Oo Nn Mm Ll Kk Jj Ii Hh Gg Ff Ee Dd Cc Bb Aa 
+Zz, Yy, Xx, Ww, Vv, Uu, Tt, Ss, Rr, Qq, Pp, Oo, Nn, Mm, Ll, Kk, Jj, Ii, Hh, Gg, Ff, Ee, Dd, Cc, Bb, Aa, 
+```
